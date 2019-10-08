@@ -1,2 +1,2 @@
 # hello-world
-1st github project
+trying out the edit and commit
